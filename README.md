@@ -1,2 +1,2 @@
-# Face-Face-Detection-Security-System
-Face Detection Security System is a C# Windows application designed for real-time facial recognition to manage building entry and exit. This project leverages .NET Framework, Windows Forms, and Emgu CV to enhance security through efficient face detection and verification, streamlining access control for secure premises management. The system ensures a seamless user experience, enabling accurate tracking of individuals entering and leaving the building while maintaining data integrity and quick response times. Ideal for modern workplaces requiring automated security solutions.
+# AUTOMATED-FACE-DETECION-SECURITY-SYSTEM
+C# project using OpenCV and EmguCV plugins and ML algorithms

@@ -1,0 +1,213 @@
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Face Detection Security System.exe.config
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Face Detection Security System.exe
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Face Detection Security System.pdb
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\AForge.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\AForge.Video.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\CircularProgressBar.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Emgu.CV.UI.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Emgu.CV.World.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\OpenTK.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\OpenTK.GLControl.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\WinFormAnimation.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\ZedGraph.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\AForge.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\AForge.Video.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\CircularProgressBar.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Emgu.CV.UI.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Emgu.CV.World.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\OpenTK.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\OpenTK.GLControl.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\WinFormAnimation.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\ZedGraph.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.AssemblyReference.cache
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.AboutUs.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Database.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.MyList.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.MainForm.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Properties.Resources.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Register.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.SplashScreen.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Survelliance.resources
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.GenerateResource.cache
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.CoreCompileInputs.cache
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.exe
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.pdb
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Face Detection Security System.exe.manifest
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Face Detection Security System.application
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.exe.manifest
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.application
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Det.F36C1240.Up2Date
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.Azure.Management.Sql.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.AadAuthenticationProvider.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.FileSystemTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ForEachAdoEnumerator.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ForEachFromVarEnumerator.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ForEachNodeListEnumerator.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopComponents.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopConnections.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopEnumerators.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.IntegrationService.HadoopTasks.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.MaintenancePlanTasks.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.ManagedConnections.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.Management.CollectorTasks.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.SqlCEDest.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.SQLTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.TransferDatabasesTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.TransferErrorMessagesTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.TransferJobsTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.TransferLoginsTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.TransferObjectsTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.TransferStoredProceduresTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.WebServiceTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.WMIDRTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.WMIEWTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.SqlServer.XmlTask.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Data.Tools.Package.SqlProfile.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Data.Tools.SqlObjectExplorer.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Hyak.Common.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.Azure.ResourceManager.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Data.Tools.Interfaces.1.0.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.Data.Tools.Design.Core.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\System.Memory.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\System.Collections.Immutable.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\System.Buffers.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.SuggestedBindingRedirects.cache
+C:\Users\AIML\Pictures\AUTOMATED-FACE-DETECION-SECURITY-SYSTEM-main\Face Detection Security System\obj\Debug\Face Detection Security System.exe.config
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.exe.config
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.exe
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.pdb
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Face Detection Security System.exe.config
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Face Detection Security System.exe.manifest
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Face Detection Security System.application
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Face Detection Security System.exe
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Face Detection Security System.pdb
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\AForge.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\AForge.Video.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\CircularProgressBar.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Emgu.CV.UI.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Emgu.CV.World.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\OpenTK.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\OpenTK.GLControl.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\WinFormAnimation.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\ZedGraph.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Hyak.Common.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.Azure.Common.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.Azure.ResourceManager.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Data.Tools.Interfaces.1.0.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.Data.Tools.Design.Core.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\System.Memory.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\System.Collections.Immutable.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\System.Buffers.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\AForge.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\AForge.Video.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\CircularProgressBar.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Emgu.CV.UI.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Emgu.CV.World.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\OpenTK.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\OpenTK.GLControl.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\WinFormAnimation.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\ZedGraph.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\Microsoft.VisualStudio.GraphModel.xml
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.AboutUs.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Database.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.MyList.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.MainForm.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Properties.Resources.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Register.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.SplashScreen.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face_Detection_Security_System.Survelliance.resources
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.exe.manifest
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Detection Security System.application
+C:\Users\hp\OneDrive\Pictures\Face Detection Security System\obj\Debug\Face Det.F36C1240.Up2Date
