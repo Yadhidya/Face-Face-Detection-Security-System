@@ -25,7 +25,6 @@ This system is designed to:
 
 ## 🖼️ Screenshots
 
-> 📸 Replace the image links with actual file paths or URLs (local folder: `/screenshots`)
 
 | ![Detection UI](screenshots/ui_main.png) | ![Recognition Process](screenshots/recognition.png) |
 |-----------------------------------------|-----------------------------------------------------|
